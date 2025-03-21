@@ -69,18 +69,28 @@ h2 {
     margin-top: 40px;
     background: #6adfff;
 }
-
-        .event-table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        .event-table th, .event-table td {
-            padding: 10px;
-            text-align: left;
+  .evento {
+            margin-bottom: 20px;
+            padding: 15px;
             border: 1px solid #ddd;
+            border-radius: 5px;
         }
-        .event-table th {
-            background-color: #f2f2f2;
+        .tipo-evento {
+            font-weight: bold;
+            font-size: 1.2em;
+            color: #333;
+        }
+        .data-ora {
+            font-size: 1em;
+            margin: 5px 0;
+        }
+        .nome-evento {
+            font-size: 1.1em;
+            font-weight: bold;
+        }
+        .luogo {
+            font-size: 1em;
+            color: #555;
         }
       
     </style>
@@ -121,60 +131,63 @@ h2 {
     </div>
 
     <h1> Calendario </h1>
-<table class="event-table">
-        <thead>
-          
-        </thead>
-        <tbody>
-            <tr>
-                <td>31 marzo</td>
-                <td>11:00</td>
-                <td>Press Preview</td>
-                <td>Shirin Neshat “Body of Evidence”, PAC Padiglione d’Arte Contemporanea | Milano Art Week 2025</td>
-            </tr>
-            <tr>
-                <td>1 aprile</td>
-                <td>11:00</td>
-                <td>Press Preview</td>
-                <td>Nico Vascellari “Pastorale”, Palazzo Reale | Milano Art Week 2025</td>
-            </tr>
-            <tr>
-                <td>1 aprile</td>
-                <td>10:00</td>
-                <td>Press Preview</td>
-                <td>Anna Boghiguian “The Four Faces of A Man”, GAM – Galleria d’Arte Moderna | Milano Art Week 2025</td>
-            </tr>
-            <tr>
-                <td>1 aprile</td>
-                <td>11:00</td>
-                <td>Press Preview</td>
-                <td>“Ugo Rondinone. Terrone” GAM – Galleria d’Arte Moderna | Milano Art Week 2025</td>
-            </tr>
-            <tr>
-                <td>1 aprile</td>
-                <td>12:00</td>
-                <td>Press Preview</td>
-                <td>Fabrizio Ferri “Breathtaking”, Museo di Storia Naturale di Milano | Milano Art Week 2025</td>
-            </tr>
-            <tr>
-                <td>2 aprile</td>
-                <td>11:00–13:00</td>
-                <td>Press Preview</td>
-                <td>Typologien: Fotografia nella Germania del XX secolo, Nada: Thierry De Cordier, Fondazione Prada | Milano Art Week 2025</td>
-            </tr>
-            <tr>
-                <td>3 aprile</td>
-                <td>11:00</td>
-                <td>Press Preview</td>
-                <td>miart, Allianz MiCo | Milano Art Week 2025</td>
-            </tr>
-            <tr>
-                <td>4 aprile</td>
-                <td>16:30</td>
-                <td>Press Preview</td>
-                <td>Riallestimento gallerie “Controverse modernità [Anni 20-40]” e “Segno e materia [Anni 50-60]” + “Premio Acacia” e le mostre “Rauschenberg e il Novecento” e “ARTSHOW (1986–2011) la guida per orientarsi al mondo dell’arte”</td>
-            </tr>
-        </tbody>
-    </table>
+
+    <div class="evento">
+        <div class="tipo-evento">Press Preview</div>
+        <div class="data-ora">31 marzo — 11:00</div>
+        <div class="nome-evento">Shirin Neshat “Body of Evidence”, PAC Padiglione d’Arte Contemporanea | Milano Art Week 2025</div>
+        <div class="luogo">PAC Padiglione d’Arte Contemporanea, Via Palestro 14, 20121 Milano, Italia</div>
+    </div>
+
+    <div class="evento">
+        <div class="tipo-evento">Press Preview</div>
+        <div class="data-ora">1 aprile — 11:00</div>
+        <div class="nome-evento">Nico Vascellari “Pastorale”, Palazzo Reale | Milano Art Week 2025</div>
+        <div class="luogo">Palazzo Reale, Piazza del Duomo 12, 20122 Milano, Italia</div>
+    </div>
+
+    <div class="evento">
+        <div class="tipo-evento">Press Preview</div>
+        <div class="data-ora">1 aprile — 10:00</div>
+        <div class="nome-evento">Anna Boghiguian “The Four Faces of A Man”, GAM – Galleria d’Arte Moderna | Milano Art Week 2025</div>
+        <div class="luogo">GAM – Galleria d’Arte Moderna, Via Palestro 16, 20121 Milano, Italia</div>
+    </div>
+
+    <div class="evento">
+        <div class="tipo-evento">Press Preview</div>
+        <div class="data-ora">1 aprile — 11:00</div>
+        <div class="nome-evento">“Ugo Rondinone. Terrone” GAM – Galleria d’Arte Moderna | Milano Art Week 2025</div>
+        <div class="luogo">GAM – Galleria d’Arte Moderna, Via Palestro 16, 20121 Milano, Italia</div>
+    </div>
+
+    <div class="evento">
+        <div class="tipo-evento">Press Preview</div>
+        <div class="data-ora">1 aprile — 12:00</div>
+        <div class="nome-evento">Fabrizio Ferri “Breathtaking”, Museo di Storia Naturale di Milano | Milano Art Week 2025</div>
+        <div class="luogo">Museo di Storia Naturale di Milano, Corso Venezia 55, 20121 Milano, Italia</div>
+    </div>
+
+    <div class="evento">
+        <div class="tipo-evento">Press Preview</div>
+        <div class="data-ora">2 aprile — 11:00–13:00</div>
+        <div class="nome-evento">Typologien: Fotografia nella Germania del XX secolo, Nada: Thierry De Cordier, Fondazione Prada | Milano Art Week 2025</div>
+        <div class="luogo">Fondazione Prada, Largo Isarco 2, 20139 Milano, Italia</div>
+    </div>
+
+    <div class="evento">
+        <div class="tipo-evento">Press Preview</div>
+        <div class="data-ora">3 aprile — 11:00</div>
+        <div class="nome-evento">miart, Allianz MiCo | Milano Art Week 2025</div>
+        <div class="luogo">Allianz MiCo, Viale Ludovico Scarampo, 20149 Milano, Italia</div>
+    </div>
+
+    <div class="evento">
+        <div class="tipo-evento">Press Preview</div>
+        <div class="data-ora">4 aprile — 16:30</div>
+        <div class="nome-evento">Riallestimento gallerie “Controverse modernità [Anni 20-40]” e “Segno e materia [Anni 50-60]” + “Premio Acacia” e le mostre “Rauschenberg e il Novecento” e “ARTSHOW (1986–2011) la guida per orientarsi al mondo dell’arte”</div>
+        <div class="luogo">Museo del Novecento, Piazza del Duomo 8, 20123 Milano, Italia</div>
+    </div>
+
+</body>
 </body>
 </html>
