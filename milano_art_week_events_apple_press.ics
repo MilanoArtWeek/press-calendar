@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY:Press Preview: Shirin Neshat “Body of Evidence”, PAC Padiglione d’Arte Contemporanea, Milano Art Week 2025
-DTSTART:20250327T110000
+SUMMARY:Press Preview: Shirin Neshat “Body of Evidence”
+DTSTART:20250327T121500
 DTEND:20250327T130000
 DESCRIPTION:Milano Art Week 2025
 Ufficio Stampa: Comune di Milano comunicazione.ufficiostampa@comune.milano.it
@@ -11,7 +11,7 @@ LOCATION:PAC Padiglione d’Arte Contemporanea, Via Palestro 14, 20121 Milano, I
 X-APPLE-IS-DURATION:TRUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Press Preview: Nico Vascellari “Pastorale”, Palazzo Reale, Milano Art Week 2025
+SUMMARY:Press Preview: Nico Vascellari “Pastorale”
 DTSTART:20250331T110000
 DTEND:20250331T140000
 DESCRIPTION:Milano Art Week 2025
@@ -20,7 +20,7 @@ LOCATION:Palazzo Reale, Piazza del Duomo 14, 20122 Milano, Italia
 X-APPLE-IS-DURATION:TRUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Press Preview: Anna Boghiguian “The Four Faces of A Man”, GAM – Galleria d’Arte Moderna, Milano Art Week 2025
+SUMMARY:Press Preview: Anna Boghiguian “The Four Faces of A Man”
 DTSTART:20250401T100000
 DTEND:20250401T130000
 DESCRIPTION:Milano Art Week 2025
@@ -29,7 +29,7 @@ LOCATION:GAM – Galleria d’Arte Moderna, Via Palestro 16, 20121 Milano, Itali
 X-APPLE-IS-DURATION:TRUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Press Preview: “Ugo Rondinone. Terrone” GAM – Galleria d’Arte Moderna, Milano Art Week 2025
+SUMMARY:Press Preview: “Ugo Rondinone. Terrone”
 DTSTART:20250401T110000
 DTEND:20250401T130000
 DESCRIPTION:Milano Art Week 2025
@@ -38,7 +38,7 @@ LOCATION:GAM – Galleria d’Arte Moderna, Via Palestro 16, 20121 Milano, Itali
 X-APPLE-IS-DURATION:TRUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Press Preview: Fabrizio Ferri “Breathtaking”, Museo di Storia Naturale di Milano, Milano Art Week 2025
+SUMMARY:Press Preview: Fabrizio Ferri “Breathtaking”
 DTSTART:20250401T120000
 DTEND:20250401T160000
 DESCRIPTION:Milano Art Week 2025
@@ -47,7 +47,7 @@ LOCATION:Museo di Storia Naturale, Corso Venezia 55, 20121 Milano, Italia
 X-APPLE-IS-DURATION:TRUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Press Preview: Typologien: Fotografia nella Germania del XX secolo, Nada: Thierry De Cordier, Fondazione Prada, Milano Art Week 2025
+SUMMARY:Press Preview: Typologien: Fotografia nella Germania del XX secolo, Nada: Thierry De Cordier
 DTSTART:20250402T100000
 DTEND:20250402T140000
 DESCRIPTION:Milano Art Week 2025
@@ -55,7 +55,7 @@ LOCATION:Fondazione Prada, Largo Isarco 2, 20139 Milano, Italia
 X-APPLE-IS-DURATION:TRUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Press Preview: miart, Allianz MiCo
+SUMMARY:Press Preview: miart
 DTSTART:20250403T110000
 DTEND:20250403T130000
 DESCRIPTION:Milano Art Week 2025
@@ -63,7 +63,7 @@ LOCATION:Allianz MiCo, Viale Ludovico Scarampo, 20149 Milano, Italia
 X-APPLE-IS-DURATION:TRUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Press Preview: Riallestimento gallerie “Controverse modernità [Anni 20-40]” e “Segno e materia [Anni 50-60]” + “Premio Acacia” e le mostre “Rauschenberg e il Novecento” e “ARTSHOW (1986–2011) la guida per orientarsi al mondo dell’arte”, Milano Art Week 2025
+SUMMARY:Press Preview: Riallestimento gallerie “Controverse modernità [Anni 20-40]” e “Segno e materia [Anni 50-60]” + “Premio Acacia” e le mostre “Rauschenberg e il Novecento” e “ARTSHOW (1986–2011) la guida per orientarsi al mondo dell’arte”
 DTSTART:20250404T100000
 DTEND:20250404T140000
 DESCRIPTION:Milano Art Week 2025
